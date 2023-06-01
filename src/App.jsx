@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       React III
+      my name is Farjana
       <QueryClientProvider client={myQueryClient}>
         <RedStripe />
         <BlueStripe />
